@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.nektoman.logging_test</groupId>
-    <artifactId>logging_test</artifactId>
+    <groupId>com.nektoman.logg_and_git</groupId>
+    <artifactId>logg_and_git</artifactId>
     <version>1.0-SNAPSHOT</version>
 
 
