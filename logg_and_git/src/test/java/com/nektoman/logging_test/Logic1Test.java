@@ -13,7 +13,7 @@ public class Logic1Test {
    @BeforeClass
    public static void start(){
        logger.debug("\n");
-       logger.debug("Logic1Test started");
+       logger.debug("Logic1Test startedaawd ");
    }
 
     @org.junit.Test
