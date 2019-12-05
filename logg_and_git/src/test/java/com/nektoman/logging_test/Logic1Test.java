@@ -14,6 +14,7 @@ public class Logic1Test {
    public static void start(){
        logger.debug("\n");
        logger.debug("Logic1Test started");
+       //master branch
    }
 
     @org.junit.Test
